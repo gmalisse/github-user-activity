@@ -1,0 +1,14 @@
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\bin\Debug\net8.0\github-user-activity.exe
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\bin\Debug\net8.0\github-user-activity.deps.json
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\bin\Debug\net8.0\github-user-activity.runtimeconfig.json
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\bin\Debug\net8.0\github-user-activity.dll
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\bin\Debug\net8.0\github-user-activity.pdb
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\github-user-activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\github-user-activity.AssemblyInfoInputs.cache
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\github-user-activity.AssemblyInfo.cs
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\github-user-activity.csproj.CoreCompileInputs.cache
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\github-user-activity.dll
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\refint\github-user-activity.dll
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\github-user-activity.pdb
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\github-user-activity.genruntimeconfig.cache
+C:\Users\Rovatsug\backend-projects\github-user-activity\github-user-activity\obj\Debug\net8.0\ref\github-user-activity.dll
