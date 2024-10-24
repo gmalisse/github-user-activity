@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rovatsug\\backend-projects\\github-user-activity\\github-user-activity\\github-user-activity.csproj",
+      "projectUniqueName": "C:\\Users\\Rovatsug\\backend-projects\\github-user-activity\\github-user-activity.csproj",
       "projectName": "github-user-activity",
-      "projectPath": "C:\\Users\\Rovatsug\\backend-projects\\github-user-activity\\github-user-activity\\github-user-activity.csproj",
+      "projectPath": "C:\\Users\\Rovatsug\\backend-projects\\github-user-activity\\github-user-activity.csproj",
       "packagesPath": "C:\\Users\\Rovatsug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rovatsug\\backend-projects\\github-user-activity\\github-user-activity\\obj\\",
+      "outputPath": "C:\\Users\\Rovatsug\\backend-projects\\github-user-activity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,22 @@
-﻿using System;
+﻿using github_user_activity.Entities;
+using System;
 using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program {
-        static void Main(string[] args) {
-            using (var client = new HttpClient()) {
-                var endpoint = new Uri("https://api.github.com/users/gmalisse/events");
-
-               
-                var result = client.GetAsync(endpoint).Result;
-                var json = result.Content.ReadAsStringAsync().Result;
+        static async Task Main(string[] args) {
+            
+            if (args.Length == 0) {
+                Console.WriteLine("Please provide a command.");
+                return;
             }
+            Console.WriteLine("Username: ");
+            string username = args[0];
+            Console.WriteLine("Token: ");
+            string token = args[0];
+            Request.SendRequest(username, token);
         }
     }
 }
